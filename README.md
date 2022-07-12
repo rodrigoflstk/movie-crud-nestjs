@@ -1,4 +1,4 @@
-# movie-api-restful
+# movie-crud-nestjs
 
 Esse projeto é uma simples aplicação que promove uma API RESTful, que representa um CRUD de catálogo de filmes.
 
