@@ -4,7 +4,7 @@ Esse projeto é uma simples aplicação que promove uma API RESTful, que represe
 
 Para a criação desse projeto, utilizarei as seguintes ferramentas:
 
-- NestJS (pouco tempo de experiência com NestJS, 1 mês).
+- NestJS (pouco tempo de experiência com NestJS).
 - TypeORM (1 ano de experiência com TypeORM).
 - Typescript (1 ano de experiência).
 - Swagger (1 ano de experiência).
