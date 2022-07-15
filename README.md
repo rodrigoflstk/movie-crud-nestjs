@@ -2,13 +2,6 @@
 
 Esse projeto é uma simples aplicação que promove uma API RESTful, que representa um CRUD de catálogo de filmes.
 
-Para a criação desse projeto, utilizarei as seguintes ferramentas:
-
-- NestJS (pouco tempo de experiência com NestJS).
-- TypeORM (1 ano de experiência com TypeORM).
-- Typescript (1 ano de experiência).
-- Swagger (1 ano de experiência).
-
 **RF** -> Requisitos funcionais -> funcionalidades que nossa aplicação podera ter
 **RNF** -> Requisitos não funcionais -> requisitos que não estão ligados diretamente com nossa aplicação
 **RN** -> Regras de negócios -> as regras para que os requisitos funcionais funcionem
